@@ -1,0 +1,29 @@
+{
+  "name": "geo2epsg",
+  "version": "0.0.0",
+  "description": "Provides a valid EPSG code (WGS84 UTM) from geographical coordinates.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyaunzbe/geo2epsg"
+  },
+  "keywords": [
+    "gis",
+    "epsg",
+    "geo",
+    "wgs84",
+    "utm",
+    "crs",
+    "srs",
+    "latlon"
+  ],
+  "author": "Ben Lyaunzon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyaunzbe/geo2epsg/issues"
+  },
+  "homepage": "https://github.com/lyaunzbe/geo2epsg"
+}
